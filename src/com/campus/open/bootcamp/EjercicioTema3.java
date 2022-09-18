@@ -6,8 +6,9 @@ public class EjercicioTema3 {
         String[] palabras = {"hola", "mi" , "nombre", "es", "Ari"};
 
         String frase = "";
+
         for (int i = 0; i < palabras.length; i++) {
-            frase = frase + " " + palabras[i];
+            frase = frase + palabras[i] + " ";
         }
         System.out.println(frase);
     }
