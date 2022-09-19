@@ -56,6 +56,7 @@ public class Main {
         vehiculo = new Motocicleta();
         vehiculo.acelerar(50);
 
+
         vehiculo = new Coche();
         vehiculo.acelerar(120);
 
