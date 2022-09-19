@@ -25,7 +25,7 @@ public class TipoDatos {
         double numeroPi = 3.141592653589793238462643383d;
         System.out.println("Este es un tipo de dato numerico double " + numeroPi);
 
-        //2_Booleanos
+// 2_Booleanos
         boolean isCasado = false;
         System.out.println("La persona esta casada? " + isCasado);
 

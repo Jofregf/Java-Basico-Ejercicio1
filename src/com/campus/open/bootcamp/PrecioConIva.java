@@ -4,7 +4,7 @@ public class PrecioConIva {
 
     public static void main(String[] args) {
 
-        getPrecioTotal(100.00);
+        getPrecioTotal(75.00);
     }
 
     public static void getPrecioTotal(double precio) {
